@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails TestingApplication: development" uuid="d577baf7-95a4-4d89-9406-3e5e18b00634">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\Sharjeel Ahmad\Desktop\rails testing\TestingApplication\db\development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\Sharjeel Ahmad\Documents\GitHub\TestingAppRuby\db\development.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
